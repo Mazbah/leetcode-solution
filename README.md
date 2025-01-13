@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mazbah/leetcode-solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Mazbah/leetcode-solution/tree/master/0189-rotate-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Mazbah/leetcode-solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2358-number-of-ways-to-split-array](https://github.com/Mazbah/leetcode-solution/tree/master/2358-number-of-ways-to-split-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Mazbah/leetcode-solution/tree/master/0189-rotate-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [2358-number-of-ways-to-split-array](https://github.com/Mazbah/leetcode-solution/tree/master/2358-number-of-ways-to-split-array) |
 <!---LeetCode Topics End-->
