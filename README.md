@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mazbah/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Mazbah/leetcode-solution/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Mazbah/leetcode-solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Mazbah/leetcode-solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Mazbah/leetcode-solution/tree/master/0189-rotate-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Mazbah/leetcode-solution/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Mazbah/leetcode-solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Mazbah/leetcode-solution/tree/master/0268-missing-number) |
 ## Counting
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mazbah/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Mazbah/leetcode-solution/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Mazbah/leetcode-solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Mazbah/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Mazbah/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
