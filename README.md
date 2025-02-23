@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mazbah/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Mazbah/leetcode-solution/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Mazbah/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Mazbah/leetcode-solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Mazbah/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Mazbah/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mazbah/leetcode-solution/tree/master/2271-rearrange-array-elements-by-sign) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Mazbah/leetcode-solution/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
