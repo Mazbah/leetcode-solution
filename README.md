@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Mazbah/leetcode-solution/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Mazbah/leetcode-solution/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/Mazbah/leetcode-solution/tree/master/0415-add-strings) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -82,12 +83,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Mazbah/leetcode-solution/tree/master/0415-add-strings) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mazbah/leetcode-solution/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Mazbah/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Mazbah/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
+| [0415-add-strings](https://github.com/Mazbah/leetcode-solution/tree/master/0415-add-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/Mazbah/leetcode-solution/tree/master/1078-remove-outermost-parentheses) |
 ## Dynamic Programming
 |  |
