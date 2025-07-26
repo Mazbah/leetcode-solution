@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Mazbah/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mazbah/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/Mazbah/leetcode-solution/tree/master/0415-add-strings) |
+| [0742-to-lower-case](https://github.com/Mazbah/leetcode-solution/tree/master/0742-to-lower-case) |
 | [1078-remove-outermost-parentheses](https://github.com/Mazbah/leetcode-solution/tree/master/1078-remove-outermost-parentheses) |
 ## Dynamic Programming
 |  |
