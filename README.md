@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Mazbah/leetcode-solution/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/Mazbah/leetcode-solution/tree/master/0713-subarray-product-less-than-k) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Mazbah/leetcode-solution/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Mazbah/leetcode-solution/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Mazbah/leetcode-solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mazbah/leetcode-solution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2358-number-of-ways-to-split-array](https://github.com/Mazbah/leetcode-solution/tree/master/2358-number-of-ways-to-split-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Mazbah/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mazbah/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Mazbah/leetcode-solution/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Mazbah/leetcode-solution/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Mazbah/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Mazbah/leetcode-solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mazbah/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Mazbah/leetcode-solution/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Mazbah/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mazbah/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Mazbah/leetcode-solution/tree/master/0392-is-subsequence) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Mazbah/leetcode-solution/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mazbah/leetcode-solution/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
