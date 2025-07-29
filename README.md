@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Mazbah/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mazbah/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Mazbah/leetcode-solution/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Mazbah/leetcode-solution/tree/master/0136-single-number) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Mazbah/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mazbah/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Mazbah/leetcode-solution/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Mazbah/leetcode-solution/tree/master/0125-valid-palindrome) |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/Mazbah/leetcode-solution/tree/master/0783-search-in-a-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Mazbah/leetcode-solution/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
