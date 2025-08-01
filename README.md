@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Mazbah/leetcode-solution/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Mazbah/leetcode-solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Mazbah/leetcode-solution/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Mazbah/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Mazbah/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Mazbah/leetcode-solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mazbah/leetcode-solution/tree/master/0283-move-zeroes) |
@@ -38,11 +39,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mazbah/leetcode-solution/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Mazbah/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Mazbah/leetcode-solution/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Mazbah/leetcode-solution/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Mazbah/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Mazbah/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Mazbah/leetcode-solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mazbah/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
@@ -147,4 +150,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mazbah/leetcode-solution/tree/master/0011-container-with-most-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Mazbah/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Mazbah/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
