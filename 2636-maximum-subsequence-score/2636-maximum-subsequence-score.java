@@ -34,4 +34,8 @@ class Solution {
     }
 }
 
-// nums1 = [1,3,3,2], 
+// nums1 = [1,3,3,2], nums2 = [1,2,1,1]
+// Step-1: make pair-- [(1,1),(3,2),(3,1),(2,1)]
+// Step-2: Sorted in decending(nums2) -- [(3,2),(3,1),(2,1),(1,1)]
+// pq = [1,2,3,3] -- K>size hoile min value remove(min-heap)
+// then calculation with last added nums2.. because nums2 is on decending order
