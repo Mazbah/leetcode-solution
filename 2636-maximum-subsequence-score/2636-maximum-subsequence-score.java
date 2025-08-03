@@ -1,5 +1,15 @@
+class Pair {
+    int first;
+    int second;
+
+    Pair(int first, int second) {
+        this.first = first;
+        this.second = second;
+    }
+}
+
 class Solution {
-    record Pair(int first, int second){}   // Need to initialize the Pair 
+    // record Pair(int first, int second){}   // Need to initialize the Pair 
     public long maxScore(int[] nums1, int[] nums2, int k) {
         int n = nums1.length;
 
