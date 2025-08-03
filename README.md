@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Mazbah/leetcode-solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mazbah/leetcode-solution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2358-number-of-ways-to-split-array](https://github.com/Mazbah/leetcode-solution/tree/master/2358-number-of-ways-to-split-array) |
+| [2636-maximum-subsequence-score](https://github.com/Mazbah/leetcode-solution/tree/master/2636-maximum-subsequence-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mazbah/leetcode-solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mazbah/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Mazbah/leetcode-solution/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2636-maximum-subsequence-score](https://github.com/Mazbah/leetcode-solution/tree/master/2636-maximum-subsequence-score) |
 ## Counting
 |  |
 | ------- |
@@ -150,10 +152,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mazbah/leetcode-solution/tree/master/0011-container-with-most-water) |
+| [2636-maximum-subsequence-score](https://github.com/Mazbah/leetcode-solution/tree/master/2636-maximum-subsequence-score) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mazbah/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [2636-maximum-subsequence-score](https://github.com/Mazbah/leetcode-solution/tree/master/2636-maximum-subsequence-score) |
 ## Quickselect
 |  |
 | ------- |
