@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Mazbah/leetcode-solution/tree/master/0692-top-k-frequent-words) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Mazbah/leetcode-solution/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Mazbah/leetcode-solution/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2413-smallest-number-in-infinite-set](https://github.com/Mazbah/leetcode-solution/tree/master/2413-smallest-number-in-infinite-set) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Mazbah/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Mazbah/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Mazbah/leetcode-solution/tree/master/0692-top-k-frequent-words) |
+| [2413-smallest-number-in-infinite-set](https://github.com/Mazbah/leetcode-solution/tree/master/2413-smallest-number-in-infinite-set) |
 | [2636-maximum-subsequence-score](https://github.com/Mazbah/leetcode-solution/tree/master/2636-maximum-subsequence-score) |
 ## Quickselect
 |  |
@@ -184,4 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Mazbah/leetcode-solution/tree/master/0692-top-k-frequent-words) |
+## Design
+|  |
+| ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/Mazbah/leetcode-solution/tree/master/2413-smallest-number-in-infinite-set) |
+## Ordered Set
+|  |
+| ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/Mazbah/leetcode-solution/tree/master/2413-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
