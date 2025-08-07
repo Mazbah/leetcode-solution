@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Mazbah/leetcode-solution/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Mazbah/leetcode-solution/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Mazbah/leetcode-solution/tree/master/0415-add-strings) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/Mazbah/leetcode-solution/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Mazbah/leetcode-solution/tree/master/0692-top-k-frequent-words) |
 | [0742-to-lower-case](https://github.com/Mazbah/leetcode-solution/tree/master/0742-to-lower-case) |
 | [1078-remove-outermost-parentheses](https://github.com/Mazbah/leetcode-solution/tree/master/1078-remove-outermost-parentheses) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/Mazbah/leetcode-solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mazbah/leetcode-solution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/Mazbah/leetcode-solution/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
