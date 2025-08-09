@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Mazbah/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mazbah/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Mazbah/leetcode-solution/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Mazbah/leetcode-solution/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/Mazbah/leetcode-solution/tree/master/0415-add-strings) |
 | [0692-top-k-frequent-words](https://github.com/Mazbah/leetcode-solution/tree/master/0692-top-k-frequent-words) |
 | [0742-to-lower-case](https://github.com/Mazbah/leetcode-solution/tree/master/0742-to-lower-case) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/Mazbah/leetcode-solution/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Mazbah/leetcode-solution/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/Mazbah/leetcode-solution/tree/master/1078-remove-outermost-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/Mazbah/leetcode-solution/tree/master/2470-removing-stars-from-a-string) |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/Mazbah/leetcode-solution/tree/master/2413-smallest-number-in-infinite-set) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Mazbah/leetcode-solution/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
