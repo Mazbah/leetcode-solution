@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Mazbah/leetcode-solution/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Mazbah/leetcode-solution/tree/master/0415-add-strings) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mazbah/leetcode-solution/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2470-removing-stars-from-a-string](https://github.com/Mazbah/leetcode-solution/tree/master/2470-removing-stars-from-a-string) |
 ## String
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mazbah/leetcode-solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mazbah/leetcode-solution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/Mazbah/leetcode-solution/tree/master/1894-merge-strings-alternately) |
+| [2470-removing-stars-from-a-string](https://github.com/Mazbah/leetcode-solution/tree/master/2470-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/Mazbah/leetcode-solution/tree/master/1078-remove-outermost-parentheses) |
+| [2470-removing-stars-from-a-string](https://github.com/Mazbah/leetcode-solution/tree/master/2470-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
 | ------- |
