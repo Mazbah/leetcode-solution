@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mazbah/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Mazbah/leetcode-solution/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Mazbah/leetcode-solution/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mazbah/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Mazbah/leetcode-solution/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Mazbah/leetcode-solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Mazbah/leetcode-solution/tree/master/0189-rotate-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Mazbah/leetcode-solution/tree/master/0067-add-binary) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mazbah/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Mazbah/leetcode-solution/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Mazbah/leetcode-solution/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Mazbah/leetcode-solution/tree/master/0415-add-strings) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mazbah/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Mazbah/leetcode-solution/tree/master/0032-longest-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mazbah/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/Mazbah/leetcode-solution/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Mazbah/leetcode-solution/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/Mazbah/leetcode-solution/tree/master/1078-remove-outermost-parentheses) |
