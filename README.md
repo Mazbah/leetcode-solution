@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Mazbah/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Mazbah/leetcode-solution/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/Mazbah/leetcode-solution/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/Mazbah/leetcode-solution/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Mazbah/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Mazbah/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mazbah/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mazbah/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Mazbah/leetcode-solution/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Mazbah/leetcode-solution/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mazbah/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/Mazbah/leetcode-solution/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Mazbah/leetcode-solution/tree/master/0735-asteroid-collision) |
