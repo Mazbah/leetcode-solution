@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Mazbah/leetcode-solution/tree/master/0692-top-k-frequent-words) |
 | [1319-unique-number-of-occurrences](https://github.com/Mazbah/leetcode-solution/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Mazbah/leetcode-solution/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/Mazbah/leetcode-solution/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Mazbah/leetcode-solution/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Mazbah/leetcode-solution/tree/master/2413-smallest-number-in-infinite-set) |
 ## Divide and Conquer
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Mazbah/leetcode-solution/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mazbah/leetcode-solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mazbah/leetcode-solution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/Mazbah/leetcode-solution/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1894-merge-strings-alternately](https://github.com/Mazbah/leetcode-solution/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/Mazbah/leetcode-solution/tree/master/2470-removing-stars-from-a-string) |
 ## Dynamic Programming
