@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Mazbah/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Mazbah/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Mazbah/leetcode-solution/tree/master/0485-max-consecutive-ones) |
+| [0605-can-place-flowers](https://github.com/Mazbah/leetcode-solution/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Mazbah/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/Mazbah/leetcode-solution/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/Mazbah/leetcode-solution/tree/master/0713-subarray-product-less-than-k) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mazbah/leetcode-solution/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/Mazbah/leetcode-solution/tree/master/0605-can-place-flowers) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mazbah/leetcode-solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2636-maximum-subsequence-score](https://github.com/Mazbah/leetcode-solution/tree/master/2636-maximum-subsequence-score) |
 ## Heap (Priority Queue)
