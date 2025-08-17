@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Mazbah/leetcode-solution/tree/master/0415-add-strings) |
 | [0692-top-k-frequent-words](https://github.com/Mazbah/leetcode-solution/tree/master/0692-top-k-frequent-words) |
 | [0742-to-lower-case](https://github.com/Mazbah/leetcode-solution/tree/master/0742-to-lower-case) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mazbah/leetcode-solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Mazbah/leetcode-solution/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mazbah/leetcode-solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mazbah/leetcode-solution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mazbah/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/Mazbah/leetcode-solution/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Mazbah/leetcode-solution/tree/master/0735-asteroid-collision) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mazbah/leetcode-solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Mazbah/leetcode-solution/tree/master/1078-remove-outermost-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/Mazbah/leetcode-solution/tree/master/2470-removing-stars-from-a-string) |
 ## Sliding Window
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mazbah/leetcode-solution/tree/master/0011-container-with-most-water) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mazbah/leetcode-solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2636-maximum-subsequence-score](https://github.com/Mazbah/leetcode-solution/tree/master/2636-maximum-subsequence-score) |
 ## Heap (Priority Queue)
 |  |
