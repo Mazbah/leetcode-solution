@@ -19,11 +19,10 @@ class Solution {
             pq.add(nums[i]);
         }
 
-        int res = -1;
-        for(int i=0;i<k;i++){
-            res = pq.poll(); 
+        for(int i=0;i<k-1;i++){
+            pq.poll(); 
         }
 
-        return res;
+        return pq.peek();
     }
 }
