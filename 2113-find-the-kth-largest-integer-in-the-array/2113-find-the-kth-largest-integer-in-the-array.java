@@ -6,7 +6,7 @@ class Solution {
 
         int len = nums.length;
         for(int i=0;i<len;i++){
-            pq.offer(new BigInteger(nums[i]));
+            pq.add(new BigInteger(nums[i]));
         }
 
         int n = len-k+1;
